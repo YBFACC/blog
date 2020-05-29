@@ -1,5 +1,8 @@
 # blog
 
+>2020-5-30
+>>[跨域JSONP](https://github.com/YBFACC/blog/issues/3#issue-627437298)
+
 >2020-5-29
 >>[手写实现call,apply,bind](https://github.com/YBFACC/blog/issues/2#issue-627087319)
 
