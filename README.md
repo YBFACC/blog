@@ -1,5 +1,8 @@
 # blog
 
+>2020-5-31
+>>[原型](https://github.com/YBFACC/blog/issues/4#issue-627909702)
+
 >2020-5-30
 >>[跨域JSONP](https://github.com/YBFACC/blog/issues/3#issue-627437298)
 
