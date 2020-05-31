@@ -1,7 +1,8 @@
 # blog
 
+
 >2020-5-31
->>[原型](https://github.com/YBFACC/blog/issues/4#issue-627909702)
+>>[原型](https://github.com/YBFACC/blog/issues/4#issue-627909702)<br/>
 >>[简单了解下柯里化](https://github.com/YBFACC/blog/issues/5#issue-627958676)
 
 >2020-5-30
