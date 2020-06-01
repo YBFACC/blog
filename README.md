@@ -1,7 +1,8 @@
 # blog
 
 >2020-6-1
->>[作用域分类](https://github.com/YBFACC/blog/issues/6#issue-628250906)
+>>[作用域分类](https://github.com/YBFACC/blog/issues/6#issue-628250906)<br/>
+>>[leetcode:146. LRU缓存机制](https://github.com/YBFACC/blog/issues/7#issue-628268069)
 
 >2020-5-31
 >>[原型](https://github.com/YBFACC/blog/issues/4#issue-627909702)<br/>
