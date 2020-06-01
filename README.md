@@ -1,5 +1,7 @@
 # blog
 
+>2020-6-1
+>>[作用域分类](https://github.com/YBFACC/blog/issues/6#issue-628250906)
 
 >2020-5-31
 >>[原型](https://github.com/YBFACC/blog/issues/4#issue-627909702)<br/>
