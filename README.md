@@ -1,5 +1,8 @@
 # blog
 
+>2020-6-2
+>>[leetcode:540-有序数组中的单一元素](https://github.com/YBFACC/blog/issues/8#issue-628564940)
+
 >2020-6-1
 >>[作用域分类](https://github.com/YBFACC/blog/issues/6#issue-628250906)<br/>
 >>[leetcode:146. LRU缓存机制](https://github.com/YBFACC/blog/issues/7#issue-628268069)
