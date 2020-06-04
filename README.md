@@ -1,5 +1,8 @@
 # blog
 
+>2020-6-4
+>>[238-除自身以外数组的乘积](https://github.com/YBFACC/blog/issues/10#issue-630846022)
+
 >2020-6-3
 >>[Cookie](https://github.com/YBFACC/blog/issues/9#issue-629729402)
 
