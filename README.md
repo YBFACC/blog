@@ -1,5 +1,8 @@
 # blog
 
+>2020-6-7
+>>[强缓存](https://github.com/YBFACC/blog/issues/12#issue-632586118)
+
 >2020-6-6
 >>[Cookie-SameSite](https://github.com/YBFACC/blog/issues/11#issue-632252906)
 
