@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="https://cdn.bootcdn.net/ajax/libs/axios/0.19.2/axios.min.js"></script>
+</head>
+
+<body>
+  <div>跨域测试</div>
+
+  <script>
+    ; (function () {
+      const api = axios.create({
+        timeout: 1000,
+        // withCredentials: true,
+        // headers: { 'X-Custom-Header': 'foobar' },
+
+      });
+
+      // api.get("http://ybf.com:3000/api").then(res => {
+      //   console.log(res.headers)
+      // })
+
+      api.get("http://ybf.com:3000/api").then(res => {
+        console.log(res.headers)
+      })
+    })();
+  </script>
+</body>
+
+</html>

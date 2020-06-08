@@ -1,5 +1,8 @@
 # blog
 
+>2020-6-9
+>>[CORS](https://github.com/YBFACC/blog/issues/14#issue-634822162)
+
 >2020-6-8
 >>[协议缓存](https://github.com/YBFACC/blog/issues/13#issue-634366200)
 
