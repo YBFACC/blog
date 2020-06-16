@@ -1,5 +1,8 @@
 # blog
 
+>2020-6-16
+>>[类型转化](https://github.com/YBFACC/blog/issues/18#issue-639487861)
+
 >2020-6-13
 >>[变量提升](https://github.com/YBFACC/blog/issues/17#issue-638122646)
 
