@@ -1,5 +1,8 @@
 # blog
 
+>2020-6-23
+>>[节流与防抖](https://github.com/YBFACC/blog/issues/21#issue-643608592)
+
 >2020-6-20
 >>[Flex](https://github.com/YBFACC/blog/issues/20#issue-642399823)
 
