@@ -1,5 +1,8 @@
 # blog
 
+>2020-6-26
+>>[Iterator](https://github.com/YBFACC/blog/issues/22#issue-646080442)
+
 >2020-6-23
 >>[节流与防抖](https://github.com/YBFACC/blog/issues/21#issue-643608592)
 
