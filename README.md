@@ -1,5 +1,8 @@
 # blog
 
+>2020-6-28
+>>[尾递归](https://github.com/YBFACC/blog/issues/23#issue-646876168)
+
 >2020-6-26
 >>[Iterator](https://github.com/YBFACC/blog/issues/22#issue-646080442)
 
