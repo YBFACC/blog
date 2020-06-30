@@ -1,5 +1,8 @@
 # blog
 
+>2020-6-30
+>>[箭头函数](https://github.com/YBFACC/blog/issues/24#issue-648118700)
+
 >2020-6-28
 >>[尾递归](https://github.com/YBFACC/blog/issues/23#issue-646876168)
 
