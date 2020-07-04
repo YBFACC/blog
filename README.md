@@ -1,5 +1,8 @@
 # blog
 
+>2020-7-4
+>>[Generator](https://github.com/YBFACC/blog/issues/25#issue-650881499)
+
 >2020-6-30
 >>[箭头函数](https://github.com/YBFACC/blog/issues/24#issue-648118700)
 
