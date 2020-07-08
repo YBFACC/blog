@@ -1,5 +1,8 @@
 # blog
 
+>2020-7-8
+>>[vue双向绑定](https://github.com/YBFACC/blog/issues/26#issue-653099123)
+
 >2020-7-4
 >>[Generator](https://github.com/YBFACC/blog/issues/25#issue-650881499)
 
