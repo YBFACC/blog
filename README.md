@@ -1,5 +1,8 @@
 # blog
 
+>2020-7-13
+>>[使用防抖](https://github.com/YBFACC/blog/issues/27#issue-655508094)
+
 >2020-7-8
 >>[vue双向绑定](https://github.com/YBFACC/blog/issues/26#issue-653099123)
 
