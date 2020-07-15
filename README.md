@@ -1,7 +1,8 @@
 # blog
 
 >2020-7-15
->>[安装puppeteer踩坑](https://github.com/YBFACC/blog/issues/28#issue-657071477)
+>>[安装puppeteer踩坑](https://github.com/YBFACC/blog/issues/28#issue-657071477)<br/>
+>>[puppeteer小练习](https://github.com/YBFACC/blog/issues/30#issue-657154922)
 
 >2020-7-13
 >>[使用防抖](https://github.com/YBFACC/blog/issues/27#issue-655508094)
