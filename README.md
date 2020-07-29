@@ -1,5 +1,8 @@
 # blog
 
+>2020-7-29
+>>[Morris遍历树](https://github.com/YBFACC/blog/issues/35#issue-667953734)
+
 >2020-7-25
 >>[二叉堆](https://github.com/YBFACC/blog/issues/34#issue-665539102)
 
