@@ -1,5 +1,8 @@
 # blog
 
+>2020-8-20
+>>[leetcode:529-扫雷游戏](https://github.com/YBFACC/blog/issues/37#issue-682803362)
+
 >2020-8-16
 >>[CommonJS和ES Modules](https://github.com/YBFACC/blog/issues/36#issue-679766055)
 
