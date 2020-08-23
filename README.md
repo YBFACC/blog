@@ -1,5 +1,8 @@
 # blog
 
+>2020-8-23
+>>[js创建数组耗时的思考](https://github.com/YBFACC/blog/issues/38#issue-684207322)
+
 >2020-8-20
 >>[leetcode:529-扫雷游戏](https://github.com/YBFACC/blog/issues/37#issue-682803362)
 
