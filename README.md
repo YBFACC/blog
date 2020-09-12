@@ -1,5 +1,8 @@
 # blog
 
+>2020-9-12
+>>[LFU缓存](https://github.com/YBFACC/blog/issues/39#issue-700004663)
+
 >2020-8-23
 >>[js创建数组耗时的思考](https://github.com/YBFACC/blog/issues/38#issue-684207322)
 
