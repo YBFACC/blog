@@ -1,5 +1,8 @@
 # blog
 
+>>2020-10-31
+>>[奇怪的Function.prototype.call.bind()](https://github.com/YBFACC/blog/issues/40#issue-733645950)
+
 >2020-10-17
 >>[使用类型化数组来加速数组创建](https://github.com/YBFACC/blog/issues/38#issuecomment-710768956)
 
