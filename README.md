@@ -1,6 +1,9 @@
 # blog
 
->>2020-10-31
+>2020-12-11
+>>[tcp的学习](https://github.com/YBFACC/blog/issues/41#issue-762174366)
+
+>2020-10-31
 >>[奇怪的Function.prototype.call.bind()](https://github.com/YBFACC/blog/issues/40#issue-733645950)
 
 >2020-10-17
